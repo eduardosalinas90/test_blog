@@ -1,0 +1,13 @@
+{
+  "name": "Site",
+  "description": "Curso laravel",
+  "main": "",
+  "authors": [
+    "Eduardo Salinas <eduardosalinas1890@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "app.public.index.php",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
